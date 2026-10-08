@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="FunnyApp.Api/FunnyApp.Api.csproj" />
+  <Project Path="FunnyApp.Application/FunnyApp.Application.csproj" />
+  <Project Path="FunnyApp.Domain/FunnyApp.Domain.csproj" />
+  <Project Path="FunnyApp.Infrastructure/FunnyApp.Infrastructure.csproj" />
+</Solution>
